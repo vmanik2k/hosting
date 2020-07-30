@@ -113,6 +113,8 @@ hr{
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  display: inline;
+  text-align: center;
 }
 
 .butn:hover {
@@ -128,4 +130,22 @@ hr{
 .contact-me{
   padding-top: 30px;
   padding-bottom: 40px;
+}
+.last{
+  height: 11rem;
+  width: auto;
+}
+.cent{
+  text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.lef{
+  margin-right: 40px;
+  margin-right: 40px;
+}
+.rig{
+  margin-left: 40px;
+  margin-right: 40px;
+
 }
